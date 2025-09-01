@@ -1,4 +1,5 @@
 <img width="912" height="348" alt="image" src="https://github.com/user-attachments/assets/2ec0d3d5-02c1-41ff-81c1-39486613d0c3" />
+
 # Smart Greenhouse System
 
 ## Features
